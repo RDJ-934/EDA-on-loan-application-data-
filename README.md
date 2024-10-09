@@ -1,1 +1,3 @@
 # EDA-on-loan-application-data
+This is a miniproject created by me for performing EDA on Loan application dataset CSV file.
+EDA is primarily used to see what data can reveal beyond the formal modeling or hypothesis testing task and provides a provides a better understanding of data set variables and the relationships between them. It can also help determine if the statistical techniques you are considering for data analysis are appropriate. Using this I derived various conclusions regarding my data by plotting various graphs using Matplotlib and seaborn. It was kinda fun to do analysis of the data.
